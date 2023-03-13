@@ -1,10 +1,4 @@
-### Hi there 👋[ReadMe.md](https://github.com/enzovasconcelosz/enzovasconcelosz/files/10962684/ReadMe.md)
-
-
-<!--
-**enzovasconcelosz/enzovasconcelosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- 💫 About Me:
+# 💫 About Me:
 🔭 Atualmente aluno do curso de engenharia de software pela Unifil.<br>🤝 Trabalho com manutenção de equipamentos médicos de imagem.<br>🌱 Em processo de aprendizado da linguagem C++<br>⚡ Procuro por pessoas que me ajudem a desenvolver minhas habilidades relacionadas a tecnologia.<br>🔭 Atualmente aluno do curso de engenharia de software pela Unifil.<br>
 
 
